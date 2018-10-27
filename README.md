@@ -9,3 +9,7 @@ express cheerio http
 cnpm i
 
 npm run dev
+
+先访问 /get 获取页面内容
+再访问 /parse  将内容存为数据
+最后 / 
